@@ -22,7 +22,7 @@ streamlit run src/magma_dashboard.py
 
 ## 📚 Documentation
 - [Full Project README](docs/Project_README.md)
-- [Technical Architecture](docs/docs/Technical_Architecture.md)
+- [Technical Architecture](https://github.com/tinchorobaldo-png/Magma-Project/tree/main/src/core)
 
 ## 👥 Team
 **Martín Robaldo** - Vibecoder - Crypto Passionate - 6+ years crypto and tech content strategist 
