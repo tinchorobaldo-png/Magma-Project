@@ -2,8 +2,6 @@
 AI-powered DeFi education platform that converts market intelligence into interactive learning experiences. Features yield scanning, protocol simulation, and community analysis for Ethereum ecosystem learners.
 # 🚀 MAGMA - Educational DeFi Intelligence Platform
 
-[Badges]
-
 ## 🎯 Mission
 Transform real-time DeFi market intelligence into structured learning opportunities, democratizing Ethereum education through AI-powered analysis and interactive simulations.
 
