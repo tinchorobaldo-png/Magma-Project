@@ -2,8 +2,6 @@
 AI-powered DeFi education platform that converts market intelligence into interactive learning experiences. Features yield scanning, protocol simulation, and community analysis for Ethereum ecosystem learners.
 # 🚀 MAGMA - Educational DeFi Intelligence Platform
 
-[Badges]
-
 ## 🎯 Mission
 Transform real-time DeFi market intelligence into structured learning opportunities, democratizing Ethereum education through AI-powered analysis and interactive simulations.
 
@@ -24,11 +22,10 @@ streamlit run src/magma_dashboard.py
 
 ## 📚 Documentation
 - [Full Project README](docs/Project_README.md)
-- [Grant Application](docs/Grant_Application.md)
-- [Technical Architecture](docs/docs/Technical_Architecture.md)
+- [Technical Architecture](https://github.com/tinchorobaldo-png/Magma-Project/tree/main/src/core)
 
 ## 👥 Team
-**Martín Robaldo** - 6+ years crypto content strategist at BeInCrypto
+**Martín Robaldo** 6+ years crypto and tech content strategist - Prompt Engineer - Crypto Passionate
 
 ## 📄 License
 MIT License - see [LICENSE](LICENSE) file
