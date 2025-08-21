@@ -25,7 +25,7 @@ streamlit run src/magma_dashboard.py
 - [Technical Architecture](https://github.com/tinchorobaldo-png/Magma-Project/tree/main/src/core)
 
 ## 👥 Team
-**Martín Robaldo** - Vibecoder - Crypto Passionate - 6+ years crypto and tech content strategist 
+**Martín Robaldo** 6+ years crypto and tech content strategist - Prompt Engineer - Crypto Passionate
 
 ## 📄 License
 MIT License - see [LICENSE](LICENSE) file
