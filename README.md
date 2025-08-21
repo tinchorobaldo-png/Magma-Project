@@ -22,7 +22,6 @@ streamlit run src/magma_dashboard.py
 
 ## 📚 Documentation
 - [Full Project README](docs/Project_README.md)
-- [Grant Application](docs/Grant_Application.md)
 - [Technical Architecture](docs/docs/Technical_Architecture.md)
 
 ## 👥 Team
