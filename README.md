@@ -25,7 +25,7 @@ streamlit run src/magma_dashboard.py
 - [Technical Architecture](docs/docs/Technical_Architecture.md)
 
 ## 👥 Team
-**Martín Robaldo** - 6+ years crypto content strategist at BeInCrypto
+**Martín Robaldo** - Vibecoder - Crypto Passionate - 6+ years crypto and tech content strategist 
 
 ## 📄 License
 MIT License - see [LICENSE](LICENSE) file
